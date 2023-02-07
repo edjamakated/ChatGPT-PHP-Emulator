@@ -24,4 +24,17 @@ A simple PHP implementation to access OpenAI's GPT-3 language model API and gene
 ## Example
 
 Here is an example prompt and output using the ChatGPT PHP Emulator:
+$prompt = "What is the capital of France?";
+
+Output:
+Paris
+
+## Contributing
+
+Feel free to submit pull requests or issues on the GitHub repository.
+
+## License
+
+This project is not licensed but I would appreciate attribution somewhere if you learned from this code or are able to reimplement it usefully.
+ryan@webhostingthatsfun.com
 
